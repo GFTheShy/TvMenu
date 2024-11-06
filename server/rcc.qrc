@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/yuyan">
+        <file>cn.txt.txt</file>
+        <file>english.txt.txt</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>image/ATV.png</file>
+        <file>image/AV.png</file>
+        <file>image/dtv.png</file>
+        <file>image/HDMI.png</file>
+        <file>image/tv.png</file>
+        <file>image/tv_button.png</file>
+        <file>image/tvtvtv.gif</file>
+        <file>music/1.mp3</file>
+        <file>mv/1.mp4</file>
+        <file>mv/2.mp4</file>
+        <file>mv/3.mp4</file>
+        <file>mv/4.mp4</file>
+        <file>mv/5.mp4</file>
+        <file>music/2.mp3</file>
+        <file>music/3.mp3</file>
+        <file>music/4.mp3</file>
+        <file>music/5.mp3</file>
+    </qresource>
+</RCC>

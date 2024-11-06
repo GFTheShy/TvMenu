@@ -1,0 +1,28 @@
+Source
+Picture
+Sound
+Channel
+Common
+DTV
+ATV
+AV
+HDMI1
+HDMI2
+Standard
+Dynamic
+Soft
+Vivid
+Energy Saving
+Standard
+Music
+Movie
+News
+User
+Country
+Antenna Type
+Signal Information
+Scan
+English
+Chinese
+Change Successful!
+
